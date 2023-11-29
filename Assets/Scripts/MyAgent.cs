@@ -105,7 +105,7 @@ public class MyAgent : Agent
                 break;
         }
 
-        AddReward(0.1f);
+        AddReward(0.2f);
     }
 
     private void OnTriggerEnter(Collider other)
