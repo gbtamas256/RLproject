@@ -1,0 +1,65 @@
+{
+    "Dodge": {
+        "checkpoints": [
+            {
+                "steps": 1499904,
+                "file_path": "results\\Run 3\\Dodge\\Dodge-1499904.onnx",
+                "reward": null,
+                "creation_time": 1701277800.4208236,
+                "auxillary_file_paths": [
+                    "results\\Run 3\\Dodge\\Dodge-1499904.pt"
+                ]
+            },
+            {
+                "steps": 1999872,
+                "file_path": "results\\Run 3\\Dodge\\Dodge-1999872.onnx",
+                "reward": null,
+                "creation_time": 1701278215.0093603,
+                "auxillary_file_paths": [
+                    "results\\Run 3\\Dodge\\Dodge-1999872.pt"
+                ]
+            },
+            {
+                "steps": 2499840,
+                "file_path": "results\\Run 3\\Dodge\\Dodge-2499840.onnx",
+                "reward": null,
+                "creation_time": 1701278660.3842983,
+                "auxillary_file_paths": [
+                    "results\\Run 3\\Dodge\\Dodge-2499840.pt"
+                ]
+            },
+            {
+                "steps": 2999808,
+                "file_path": "results\\Run 3\\Dodge\\Dodge-2999808.onnx",
+                "reward": null,
+                "creation_time": 1701279108.7250123,
+                "auxillary_file_paths": [
+                    "results\\Run 3\\Dodge\\Dodge-2999808.pt"
+                ]
+            },
+            {
+                "steps": 3002368,
+                "file_path": "results\\Run 3\\Dodge\\Dodge-3002368.onnx",
+                "reward": null,
+                "creation_time": 1701279109.006672,
+                "auxillary_file_paths": [
+                    "results\\Run 3\\Dodge\\Dodge-3002368.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3002368,
+            "file_path": "results\\Run 3\\Dodge.onnx",
+            "reward": null,
+            "creation_time": 1701279109.006672,
+            "auxillary_file_paths": [
+                "results\\Run 3\\Dodge\\Dodge-3002368.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

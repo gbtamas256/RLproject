@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BulletController3 : MonoBehaviour
 {
-    public float speed = 2.0f;
+    public float speed = 1.5f;
 
     private void Start()
     {
